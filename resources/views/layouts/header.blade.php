@@ -57,11 +57,10 @@
                 <nav class="main-nav">
                     <!-- ***** Logo Start ***** -->
 
-
-
-                    <a href="{{route('home')}}" class="logo">
-                        <img src="{{asset('assets/img/1200px-Rccg_logo.png')}}" alt="rcf" style="width:70px;height:60px;">
-                        <span>CHRIST CHAPEL</span>
+                    <br>
+                    <a href="{{route('home')}}" class="">
+                        <img src="{{asset('assets/img/1200px-Rccg_logo.png')}}" alt="rcf" style="width:50px;height:40px;">
+                        <p>CHRIST CHAPEL</p>
                     </a>
                     <!-- ***** Logo End ***** -->
                     <!-- ***** Menu Start ***** -->
