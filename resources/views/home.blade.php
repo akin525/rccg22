@@ -148,7 +148,7 @@
                         </article>
                         <article class="accordion">
                             <div class="accordion-head">
-                                <span>About RCF ILA-ORANGUN</span>
+                                <span>RCCG CHRIST CHAPEL</span>
                                 <span class="icon">
                         <i class="icon fa fa-chevron-right"></i>
                     </span>
@@ -478,7 +478,7 @@
                 <div class="col-lg-6">
                     <div class="row">
                         <div class="col-lg-12">
-                            <h2>A Few Facts About RCF ILA-ORANGUN</h2>
+                            <h2>A Few Facts RCCG CHRIST CHAPEL</h2>
                         </div>
                         <div class="col-lg-6">
                             <div class="row">
@@ -573,15 +573,15 @@
                             </li>
                             <li>
                                 <h6>Email Address</h6>
-                                <span>rcfila@gmail.com</span>
+                                <span>info@rccgchristchapel.com.ng/</span>
                             </li>
                             <li>
                                 <h6>Street Address</h6>
-                                <span>No1,Counselor Abiodun Area, ila-orangun </span>
+                                <span>No1, Oke Suna Akute Ogun State </span>
                             </li>
                             <li>
                                 <h6>Website URL</h6>
-                                <span>www.rcfila.com.ng</span>
+                                <span>https://rccgchristchapel.com.ng/</span>
                             </li>
                         </ul>
                     </div>
